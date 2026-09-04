@@ -40,6 +40,7 @@ Playwright launches a headless Chromium instance and navigates to the target pag
 ### Notes
 - This script depends on doviz.com's current page structure (specifically the `data-socket-key` attribute). If the site changes its layout, the selectors may need to be updated.
 - Intended for personal, educational use — check a site's terms of service before scraping it for other purposes.
+- Note: This project was developed with AI assistance as part of my learning process.
 
 ---
 
@@ -76,6 +77,7 @@ Playwright startet eine Headless-Chromium-Instanz und navigiert zur Zielseite. `
 ### Hinweise
 - Dieses Skript ist von der aktuellen Seitenstruktur von doviz.com abhängig (insbesondere dem `data-socket-key`-Attribut). Ändert die Seite ihr Layout, müssen die Selektoren möglicherweise aktualisiert werden.
 - Für den persönlichen, edukativen Gebrauch gedacht — prüfe die Nutzungsbedingungen einer Website, bevor du sie für andere Zwecke scrapst.
+- Hinweis: Dieses Projekt wurde im Rahmen meines Lernprozesses mit KI-Unterstützung entwickelt.
 
 ---
 
@@ -112,3 +114,4 @@ Playwright, headless bir Chromium örneği başlatır ve hedef sayfaya gider. `p
 ### Notlar
 - Bu script, doviz.com'un mevcut sayfa yapısına (özellikle `data-socket-key` özniteliğine) bağımlıdır. Site düzenini değiştirirse, seçicilerin güncellenmesi gerekebilir.
 - Kişisel, eğitim amaçlı kullanım için tasarlanmıştır — başka amaçlarla scrape etmeden önce bir sitenin kullanım şartlarını kontrol et.
+- Not: Bu proje, öğrenme sürecimin bir parçası olarak yapay zeka desteğiyle geliştirilmiştir.
